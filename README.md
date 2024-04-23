@@ -5,9 +5,9 @@
 
 <h2>Projects Overview</h2>
 <ul>
-  <li><strong><a href="[URL-of-Classification-modeling-on-birthweight.ipynb](https://github.com/fequinta/fequinta.github.io/blob/main/Classification%20modeling%20on%20birthweight.ipynb)">Classification modeling on birthweight</a>:</strong> This project involves building a classification model to predict categories based on birthweight dataset features.</li>
-  <li><strong><a href="[URL-of-PCA-Cluster-on-Facebook-Lives.ipynb](https://github.com/fequinta/fequinta.github.io/blob/main/PCA%20%2B%20Cluseter%20on%20Facebook%20Lives.ipynb)">PCA + Cluster on Facebook Lives</a>:</strong> An analysis combining Principal Component Analysis (PCA) and clustering techniques on data from Facebook live sellers.</li>
-  <li><strong><a href="[URL-of-Regression-model-to-predict-bike-rentals.ipynb](https://github.com/fequinta/fequinta.github.io/blob/main/Regression%20model%20to%20predict%20bike%20rentals.ipynb)">Regression model to predict bike rentals</a>:</strong> A regression analysis aimed at predicting the number of bike rentals based on various factors.</li>
+  <li><strong><a href="https://github.com/fequinta/fequinta.github.io/blob/main/Classification%20modeling%20on%20birthweight.ipynb">Classification modeling on birthweight</a>:</strong> This project involves building a classification model to predict categories based on birthweight dataset features.</li>
+  <li><strong><a href="https://github.com/fequinta/fequinta.github.io/blob/main/PCA%20%2B%20Cluseter%20on%20Facebook%20Lives.ipynb">PCA + Cluster on Facebook Lives</a>:</strong> An analysis combining Principal Component Analysis (PCA) and clustering techniques on data from Facebook live sellers.</li>
+  <li><strong><a href="https://github.com/fequinta/fequinta.github.io/blob/main/Regression%20model%20to%20predict%20bike%20rentals.ipynb">Regression model to predict bike rentals</a>:</strong> A regression analysis aimed at predicting the number of bike rentals based on various factors.</li>
 </ul>
 
 <h2>Contributions</h2>
