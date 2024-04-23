@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Welcome to my MBAN Class of 2024 Repository</h1>
